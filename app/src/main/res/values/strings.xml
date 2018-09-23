@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UniPractice</string>
+    <string name="student"> Fill in the student card</string>
+    <string name="surname">Enter your surname</string>
+    <string name="name">Enter your first name</string>
+    <string name="secname">Enter your second name</string>
+    <string name="group">Enter your group number</string>
+    <string name="faculty">Enter your faculty</string>
+    <string name="confirm">Confirm the information given</string>
+    <string name="title">Student card application</string>
+</resources>
