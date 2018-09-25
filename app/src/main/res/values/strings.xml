@@ -8,4 +8,8 @@
     <string name="faculty">Enter your faculty</string>
     <string name="confirm">Confirm the information given</string>
     <string name="title">Student card application</string>
+    <string name="red">Switch to red</string>
+    <string name="green">Switch to green</string>
+    <string name="blue">Switch to blue</string>
+    <string name="yellow">Switch to yellow</string>
 </resources>
