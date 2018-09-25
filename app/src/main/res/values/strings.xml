@@ -12,4 +12,9 @@
     <string name="green">Switch to green</string>
     <string name="blue">Switch to blue</string>
     <string name="yellow">Switch to yellow</string>
+    <string name="change">Change the layout</string>
+    <string name="success">You have successfully registered</string>
+    <string name="lab2">Switch to the 2nd lab</string>
+    <string name="lab3">Switch to the 3nd lab</string>
+    <string name="navigation">Menu</string>
 </resources>

@@ -6,6 +6,7 @@
     android:layout_height="match_parent">
 
     <TableLayout
+        android:id="@+id/TableLayout1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="172dp"
@@ -78,14 +79,6 @@
             android:gravity="center"
             android:orientation="horizontal">
 
-            <EditText
-                android:id="@+id/editText2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_above="@+id/editText"
-                android:ems="10"
-                android:inputType="textPersonName"
-                android:text="Name" />
         </TableRow>
     </TableLayout>
 </android.support.constraint.ConstraintLayout>
